@@ -1,0 +1,24 @@
+D:\Web App .NET\Batch 46\28.08.2017\InventoryManagementApp\InventoryManagementApp\bin\InventoryManagementApp.dll.config
+D:\Web App .NET\Batch 46\28.08.2017\InventoryManagementApp\InventoryManagementApp\bin\InventoryManagementApp.dll
+D:\Web App .NET\Batch 46\28.08.2017\InventoryManagementApp\InventoryManagementApp\bin\InventoryManagementApp.pdb
+D:\Web App .NET\Batch 46\28.08.2017\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.csprojResolveAssemblyReference.cache
+D:\Web App .NET\Batch 46\28.08.2017\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.dll
+D:\Web App .NET\Batch 46\28.08.2017\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.pdb
+D:\Web App .NET\Batch 46\06.09.2017\InventoryManagementApp\InventoryManagementApp\bin\InventoryManagementApp.dll.config
+D:\Web App .NET\Batch 46\06.09.2017\InventoryManagementApp\InventoryManagementApp\bin\InventoryManagementApp.dll
+D:\Web App .NET\Batch 46\06.09.2017\InventoryManagementApp\InventoryManagementApp\bin\InventoryManagementApp.pdb
+D:\Web App .NET\Batch 46\06.09.2017\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.csprojResolveAssemblyReference.cache
+D:\Web App .NET\Batch 46\06.09.2017\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.dll
+D:\Web App .NET\Batch 46\06.09.2017\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.pdb
+D:\Web App .NET\Batch 46\09.09.2017\InventoryManagementApp\InventoryManagementApp\bin\InventoryManagementApp.dll.config
+D:\Web App .NET\Batch 46\09.09.2017\InventoryManagementApp\InventoryManagementApp\bin\InventoryManagementApp.dll
+D:\Web App .NET\Batch 46\09.09.2017\InventoryManagementApp\InventoryManagementApp\bin\InventoryManagementApp.pdb
+D:\Web App .NET\Batch 46\09.09.2017\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.csprojResolveAssemblyReference.cache
+D:\Web App .NET\Batch 46\09.09.2017\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.dll
+D:\Web App .NET\Batch 46\09.09.2017\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Web Dot Net\Batch 46\11.09.2017\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Web Dot Net\Batch 46\11.09.2017\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.dll
+C:\Users\Web App Develop .Net\Desktop\Web Dot Net\Batch 46\11.09.2017\InventoryManagementApp\InventoryManagementApp\bin\InventoryManagementApp.dll.config
+C:\Users\Web App Develop .Net\Desktop\Web Dot Net\Batch 46\11.09.2017\InventoryManagementApp\InventoryManagementApp\bin\InventoryManagementApp.dll
+C:\Users\Web App Develop .Net\Desktop\Web Dot Net\Batch 46\11.09.2017\InventoryManagementApp\InventoryManagementApp\bin\InventoryManagementApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Web Dot Net\Batch 46\11.09.2017\InventoryManagementApp\InventoryManagementApp\obj\Debug\InventoryManagementApp.pdb
